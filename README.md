@@ -1,8 +1,14 @@
-### Hi there 👋
-[![jeanmichelmorin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]
-[![jeanmichelmorin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]
-
+<h1 align="center">Hi there! </h1>
+<div align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  </a>
+  </br>
+  </br>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  </a>
+</div>
 <!--
 **jeanmichelmorin/jeanmichelmorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
