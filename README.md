@@ -14,7 +14,7 @@
    </br>
    </br>
    
-   ![](https://github-readme-stats.vercel.app/api?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)            |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact") 
+   <img src="https://github-readme-stats.vercel.app/api?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>            |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact"/>
    :-------------------------:|:-------------------------:
    
 <!--
