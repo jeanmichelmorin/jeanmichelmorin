@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! </h1>
 <div align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
   </br>
   </br>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
 </div>
