@@ -10,14 +10,27 @@
       <a href="https://github.com/search?q=topics%3A0+user%3Ajeanmichelmorin&type=Repositories&ref=advsearch&l=&l=">no topics</a>
    </p></br>
    <img src="https://img.shields.io/badge/views-5.7k-blue?style=flat-square"/>
+   
+   </br>
+   </br>
+   
+   ![](https://github-readme-stats.vercel.app/api?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)            |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact") 
+   :-------------------------:|:-------------------------:
+   
+<!--
+   Solarized dark             |  Solarized Ocean
+   :-------------------------:|:-------------------------:
+   ![](https://github-readme-stats.vercel.app/api?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact") 
+-->
+   
 </div>
 
 </br>
-
+<!--
 <div align="center">
    <a href="#">
       <img src="https://github-readme-stats.vercel.app/api?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-     <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanmichelmorin&theme=vue"/>-->
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanmichelmorin&theme=vue"/>
    </a>
    </br>
    </br>
@@ -25,10 +38,8 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" />
    </a>
 </div>
+-->
 
-</br>
-
-</br>
 
 <div align="center">
    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
