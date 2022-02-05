@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi there! 👋</h1>
-   <p>Developer, electronic music producer, streamer</p>
+   <p>Developer, electronic music producer, streamer, video and image editor</p>
    <p>
       Projects Categories (Hot Topics):</br>
       <a href="https://github.com/search?q=user%3Ajeanmichelmorin+chrome-extension">chrome-extension</a> | 
