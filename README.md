@@ -2,8 +2,12 @@
 <h1>Hi there! 👋</h1>
 <p>Developer, electronic music producer, streamer</p>
 <p>
-   My Projects Categorized (Topics):</br>
-   <a href="https://github.com/search?q=user%3Ajeanmichelmorin+chrome-extension">chrome-extension</a> | <a href="https://github.com/search?q=user%3Ajeanmichelmorin+school">school</a> | <a href="https://github.com/search?q=user%3Ajeanmichelmorin+utility">utility</a>
+   Projects Categories (Hot Topics):</br>
+   <a href="https://github.com/search?q=user%3Ajeanmichelmorin+chrome-extension">chrome-extension</a> | 
+   <a href="https://github.com/search?q=user%3Ajeanmichelmorin+school">school</a> | 
+   <a href="https://github.com/search?q=user%3Ajeanmichelmorin+utility">utility</a> | 
+   <a href="https://github.com/search?q=user%3Ajeanmichelmorin+utility">twitch</a> | 
+   <a href="https://github.com/search?q=topics%3A0+user%3Ajeanmichelmorin&type=Repositories&ref=advsearch&l=&l=">no topics</a>
 </p>
 </div>
 
