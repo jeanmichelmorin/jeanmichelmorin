@@ -1,29 +1,51 @@
 <div align="center">
-<h1>Hi there! 👋</h1>
-<p>Developer, electronic music producer, streamer</p>
-<p>
-   Projects Categories (Hot Topics):</br>
-   <a href="https://github.com/search?q=user%3Ajeanmichelmorin+chrome-extension">chrome-extension</a> | 
-   <a href="https://github.com/search?q=user%3Ajeanmichelmorin+school">school</a> | 
-   <a href="https://github.com/search?q=user%3Ajeanmichelmorin+utility">utility</a> | 
-   <a href="https://github.com/search?q=user%3Ajeanmichelmorin+utility">twitch</a> | 
-   <a href="https://github.com/search?q=topics%3A0+user%3Ajeanmichelmorin&type=Repositories&ref=advsearch&l=&l=">no topics</a>
-</p>
+   <h1>Hi there! 👋</h1>
+   <p>Developer, electronic music producer, streamer</p>
+   <p>
+      Projects Categories (Hot Topics):</br>
+      <a href="https://github.com/search?q=user%3Ajeanmichelmorin+chrome-extension">chrome-extension</a> | 
+      <a href="https://github.com/search?q=user%3Ajeanmichelmorin+school">school</a> | 
+      <a href="https://github.com/search?q=user%3Ajeanmichelmorin+utility">utility</a> | 
+      <a href="https://github.com/search?q=user%3Ajeanmichelmorin+twitch">twitch</a> | 
+      <a href="https://github.com/search?q=topics%3A0+user%3Ajeanmichelmorin&type=Repositories&ref=advsearch&l=&l=">no topics</a>
+   </p></br>
+   <img src="https://img.shields.io/badge/views-5.7k-blue?style=flat-square"/>
 </div>
 
 </br>
 
 <div align="center">
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-</br>
-</br>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+   <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+     <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeanmichelmorin&theme=vue"/>-->
+   </a>
+   </br>
+   </br>
+   <a href="#">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" />
+   </a>
 </div>
 
+</br>
+
+</br>
+
+<div align="center">
+   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+</div>
+
+</br>
+</br>
+
+<div align="center">
+   Find me:</br></br>
+   <a href="https://codepen.io/jeanmichelmorin"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+   <a href="https://stackoverflow.com/users/10903421/jean-michel-morin"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+</div>
 
 
 
