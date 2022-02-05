@@ -1,4 +1,6 @@
-<h1 align="center">Hi there! </h1>
+<h1 align="center">Hi there! 👋</h1>
+<p align="center">Developer, electronic music producer, streamer</p>
+<a href="https://github.com/search?q=user%3Ajeanmichelmorin+chrome-extension">My Chrome Extensions</p>
 <div align="center" >
   <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeanmichelmorin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
