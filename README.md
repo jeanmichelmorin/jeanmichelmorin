@@ -3,7 +3,7 @@
 <p>Developer, electronic music producer, streamer</p>
 <p>
    My Projects Categorized (Topics):</br>
-   <a href="https://github.com/search?q=user%3Ajeanmichelmorin+chrome-extension">chrome-extension</a> | <a href="https://github.com/search?q=user%3Ajeanmichelmorin+school">school</a> | <a href="https://github.com/search?q=user%3Ajeanmichelmorin+utility">school</a>
+   <a href="https://github.com/search?q=user%3Ajeanmichelmorin+chrome-extension">chrome-extension</a> | <a href="https://github.com/search?q=user%3Ajeanmichelmorin+school">school</a> | <a href="https://github.com/search?q=user%3Ajeanmichelmorin+utility">utility</a>
 </p>
 </div>
 
