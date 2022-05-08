@@ -5,7 +5,7 @@
       <a href="https://github.com/search?q=user%3Ajeanmichelmorin+chrome-extension">chrome-extension</a> | 
       <a href="https://github.com/jeanmichelmorin-school-projects">school</a> | 
       <a href="https://github.com/search?q=user%3Ajeanmichelmorin+utility">utility</a> | 
-      <a href="https://github.com/search?q=user%3Ajeanmichelmorin+utility">utility-library</a> | 
+      <a href="https://github.com/search?q=user%3Ajeanmichelmorin+utility-library">utility-library</a> | 
       <a href="https://github.com/search?q=user%3Ajeanmichelmorin+twitch">twitch</a> | 
       <a href="https://github.com/search?q=user%3Ajeanmichelmorin+unity-asset">unity-assets</a> | 
       <a href="https://github.com/search?q=topics%3A0+user%3Ajeanmichelmorin&type=Repositories&ref=advsearch&l=&l=">no topics</a>
