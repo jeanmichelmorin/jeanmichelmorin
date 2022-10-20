@@ -10,7 +10,7 @@
       <a href="https://github.com/search?q=user%3Ajeanmichelmorin+unity-asset">unity-assets</a> | 
       <a href="https://github.com/search?q=topics%3A0+user%3Ajeanmichelmorin&type=Repositories&ref=advsearch&l=&l=">no topics</a>
    </p></br>
-   <img src="https://img.shields.io/badge/profile_visits-6.1k-blue?style=flat-square"/>
+   <img src="https://img.shields.io/badge/profile_visits-9.4k-blue?style=flat-square"/>
    
    </br>
    </br>
