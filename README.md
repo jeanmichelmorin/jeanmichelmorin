@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi there! 👋</h1>
    <p>
-      <a href="https://linktr.ee/jeanmichelmorin">All my links</a>
+      <a href="https://linktr.ee/jeanmichelmorin">All my links</a></br>
       Projects Categories (Hot Topics):</br>
       <a href="https://github.com/search?q=user%3Ajeanmichelmorin+chrome-extension">chrome-extension</a> | 
       <a href="https://github.com/jeanmichelmorin-school-projects">school</a> | 
