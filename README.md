@@ -15,7 +15,8 @@
    <details>
      <summary>Private repository projects</summary>
      
-     Coming soon...
+     ###Coming soon...
+     Nothing yet.
       
    </details>
    </br>
